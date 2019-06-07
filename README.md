@@ -1,1 +1,5 @@
-# mds3_unit_tests
+# unit_test
+Unit test with Jest
+
+# How to execute test ?
+npm test
